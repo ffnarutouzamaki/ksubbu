@@ -1,0 +1,4 @@
+# K. Subbu Digital Archive — root .htaccess
+# Kept intentionally minimal so it works on any Apache config without risking
+# a site-wide 500 error from an unsupported directive.
+Options -Indexes
